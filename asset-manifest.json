@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-lab/static/css/main.3e434423.css",
+    "main.js": "/react-lab/static/js/main.ceccd99a.js",
+    "static/js/453.07a360c5.chunk.js": "/react-lab/static/js/453.07a360c5.chunk.js",
+    "index.html": "/react-lab/index.html",
+    "main.3e434423.css.map": "/react-lab/static/css/main.3e434423.css.map",
+    "main.ceccd99a.js.map": "/react-lab/static/js/main.ceccd99a.js.map",
+    "453.07a360c5.chunk.js.map": "/react-lab/static/js/453.07a360c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e434423.css",
+    "static/js/main.ceccd99a.js"
+  ]
+}
